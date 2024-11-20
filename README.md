@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Segredo da Pedra Luminescente - Uma História por IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Dentre as opções propostas, foi idealizado um vídeo feito com histórias criadas por IA e também apresentados por uma IA generativa. Neste vídeo curto apresentamos uma história de aventura em um reino mágico com castelos, florestas e dragões, abordando temas como amizade, coragem e gentileza. Inclusive, é possível, no futuro, criar um canal compartilhando tais histórias criadas. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- IA Generativa [ChatGPT](https://chatgpt.com/) para roteirização e revisão;
+- IA Generativa [HeyGen](https://app.heygen.com/) para sintetização de voz e geração de avatar virtual;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usado "[ChatGPT](https://chatgpt.com/)" para criação da história "O Segredo da Pedra Luminescente", dentre outras. O "[HeyGen](https://app.heygen.com/)" foi essencial para criar o vídeo com seus modelos prontos de avatar virtual e voz sintetizada. Foram IAs simples de utilizar para produzir este conteúdo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apesar de ser um vídeo curto, segue o objetivo de contar a história criada pela IA Generativa.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+### 📺Vídeo pode ser acessado em [Vídeo](https://youtu.be/DtEpL49Y9eU)
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
+## 💭 Reflexão
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar histórias e vídeos. Realmente nos faz imaginar as infinitas possibilidades.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
