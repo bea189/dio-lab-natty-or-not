@@ -12,13 +12,12 @@ Dentre as opções propostas, foi idealizado um vídeo feito com histórias cria
 Usado "[ChatGPT](https://chatgpt.com/)" para criação da história "O Segredo da Pedra Luminescente", dentre outras. O "[HeyGen](https://app.heygen.com/)" foi essencial para criar o vídeo com seus modelos prontos de avatar virtual e voz sintetizada. Foram IAs simples de utilizar para produzir este conteúdo.
 
 ## 🚀 Resultados
-Apesar de ser um vídeo curto, segue o objetivo de contar a história criada pela IA Generativa.
+Apesar de ser um vídeo curto, segue o objetivo de contar a história criada pela IA Generativa. A história criada serve da base para projetos e mais conteúdos no futuro. O avatar encontrado se expressa muito bem contando a história, o que acredito que gerou um video de qualidade. 
 
-### 📺Vídeo pode ser acessado em [Vídeo](https://youtu.be/DtEpL49Y9eU)
-
+#### 📺Vídeo pode ser acessado em [Vídeo](https://youtu.be/DtEpL49Y9eU)
 
 
 ## 💭 Reflexão
 
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar histórias e vídeos. Realmente nos faz imaginar as infinitas possibilidades.
-
+Este projeto foi uma experiência incrível em contar histórias, utilizando as IAs Generativas para criar histórias e vídeos. Realmente nos faz imaginar as infinitas possibilidades da aplicação de IA.
+Realizar esse projeto me incentivou a explorar ainda mais IAs generativas e criar novos conteúdos.
